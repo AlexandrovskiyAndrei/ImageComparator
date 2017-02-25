@@ -1,5 +1,4 @@
 # ImageComparator
-Swing application to compare image files
 
 GUI Swing application that compares two image files
 
